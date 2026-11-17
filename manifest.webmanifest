@@ -1,0 +1,14 @@
+{
+  "name": "Cata de vinos",
+  "short_name": "Mis catas",
+  "lang": "es",
+  "start_url": "./#/lista",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf6f2",
+  "theme_color": "#702d46",
+  "icons": [
+    {"src": "iconos/icono-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "iconos/icono-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
